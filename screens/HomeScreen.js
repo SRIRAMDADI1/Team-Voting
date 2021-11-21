@@ -70,13 +70,13 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     justifyContent: 'center',
     borderWidth: 1,
-    borderRadius: 15,
+    borderRadius: 20,
     margin:10,
     width: 150,
     height: 50,
   },
   ratingContainer: {
     alignSelf: 'center',
-    marginTop: 50,
+    marginTop: 60,
   },
 });
